@@ -4,3 +4,4 @@ end
 source ~/.iterm2_shell_integration.fish
 fzf_configure_bindings --directory=\ct
 set fzf_fd_opts --type d -d 4 --hidden --exclude=.git
+set PATH $HOME/.cargo/bin $PATH
