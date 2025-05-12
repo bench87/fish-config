@@ -13,4 +13,3 @@ export VISUAL=nvim
 export K9S_EDITOR=nvim
 export KUBECTL_EXTERNAL_DIFF="colordiff -N -u"
 export AWS_REGION=ap-northeast-2
-export KUBECTL_NODE_SHELL_IMAGE=harbor-live.tossinvest.bz/infra/alpine:3.17
